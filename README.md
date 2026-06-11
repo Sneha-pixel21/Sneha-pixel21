@@ -1,4 +1,4 @@
-# Hey, I'm Sneha!
+# Sneha Kushwaha
 
 I'm a 3rd-year B.Tech student in **Artificial Intelligence & Machine Learning**  building things at the intersection of LLMs, RAG pipelines, and real-world applications.
 
