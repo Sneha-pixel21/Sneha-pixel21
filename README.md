@@ -6,7 +6,7 @@ My focus right now is on making AI systems that are actually *useful* — ground
 
 ---
 
-## 🧠 What I Work With
+## What I Work With
 
 **AI / ML**
 `Large Language Models` `Retrieval-Augmented Generation` `Vector Embeddings` `Deep Learning` `Neural Networks` `Transfer Learning`
@@ -49,7 +49,7 @@ Image classification model built with **MobileNetV2 transfer learning** to ident
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 - 📧 snehacheckin@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/sneha-kushwaha-1731b6377/) 
